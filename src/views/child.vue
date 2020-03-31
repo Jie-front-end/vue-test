@@ -1,5 +1,5 @@
 <template>
   <div>
-    I am child
+    I am new child
   </div>
 </template>
